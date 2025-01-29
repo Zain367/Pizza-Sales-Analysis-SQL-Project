@@ -5,6 +5,8 @@ Below are the key insights from the analysis:
 3. Peak Sales Period: Afternoon is the busiest time for orders
 4. Average Daily Orders: 138 pizzas per day
 5. Top Revenue-Generating Category: Hawaiian Pizza contributes the highest revenue
+
+Key Recommendations:
    
 1- Optimize Operations During Peak Hours
 
