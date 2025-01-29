@@ -11,19 +11,16 @@ Key Recommendations:
 1- Optimize Operations During Peak Hours
 
 Increase staffing and streamline kitchen processes to handle high demand efficiently.
-
 Implement special promotions or bundle deals during off-peak hours to balance order flow.
 
 2- Leverage Best-Selling Pizzas for Marketing & Promotions
 
 Feature The Classic Deluxe Pizza and The Barbecue Chicken Pizza in promotions to drive even higher sales.
-
 Introduce combo offers with drinks or sides to increase average order value.
 
 3-Maximize Revenue from Hawaiian Pizza
 
 Explore premium variations or upsell strategies to further capitalize on its strong performance.
-
 Highlight its popularity in marketing campaigns to attract more customers.
 
 
