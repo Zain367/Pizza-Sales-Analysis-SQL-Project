@@ -1,47 +1,56 @@
-**Project Title**
-Objective
-Tools/Skills Used
-Key Insights / Summary of Findings
-Screenshots
-Optional: Link to full dashboard if hosted or PDF export
+# 🍕 Pizza Sales Analysis – SQL Project
 
+## 📊 Project Overview
+In this project, I leveraged SQL to analyze detailed sales data from a pizza restaurant. The goal was to uncover key trends, understand customer behavior, and provide actionable recommendations to optimize operations and boost revenue.
 
+---
 
+## 🧰 Tools & Technologies
+- MySQL (Structured Query Language)
+- Excel (for basic data review)
+- SQL Joins, Aggregations, CTEs, and Window Functions
 
+---
 
+## 🗃️ Dataset Overview
+The dataset is composed of four CSV files:
+- `orders.csv` – Order timestamps and IDs
+- `order_details.csv` – Quantity and pizza ID for each item
+- `pizza.csv` – Pizza prices and sizes
+- `pizza_types.csv` – Pizza names, categories, and ingredients
 
+---
 
+## 📌 Key Insights
 
+1. 🍕 **Highest Priced Pizza**: The Greek Pizza  
+2. 🧀 **Most Ordered Pizzas**: The Classic Deluxe Pizza & The Barbecue Chicken Pizza  
+3. 🕐 **Peak Sales Period**: Afternoon (busiest time for orders)  
+4. 📅 **Average Daily Orders**: 138 pizzas per day  
+5. 💰 **Top Revenue-Generating Category**: Hawaiian Pizza
 
+---
 
+## ✅ Key Recommendations
 
+### 1. Optimize Operations During Peak Hours
+- Increase staffing and streamline kitchen workflows in the afternoon.
+- Offer promotions during off-peak hours to spread demand more evenly.
 
-I have leveraged my SQL skills to analyze pizza sales data and identify key trends to optimize sales strategies and improve operational efficiency.
-Below are the key insights from the analysis:           
-1. Highest Priced Pizza: The Greek Pizza
-2. Most Ordered Pizza Types: The Classic Deluxe Pizza & The Barbecue Chicken Pizza
-3. Peak Sales Period: Afternoon is the busiest time for orders
-4. Average Daily Orders: 138 pizzas per day
-5. Top Revenue-Generating Category: Hawaiian Pizza contributes the highest revenue
+### 2. Leverage Best-Selling Pizzas for Marketing
+- Promote The Classic Deluxe and The Barbecue Chicken Pizza in campaigns.
+- Use combo deals (e.g., with drinks/sides) to increase average order value.
 
-Key Recommendations:
-   
-1- Optimize Operations During Peak Hours
+### 3. Maximize Revenue from Hawaiian Pizza
+- Create premium versions or upsell strategies for Hawaiian Pizza.
+- Highlight its popularity in advertisements to attract more customers.
 
-Increase staffing and streamline kitchen processes to handle high demand efficiently.
-Implement special promotions or bundle deals during off-peak hours to balance order flow.
+---
 
-2- Leverage Best-Selling Pizzas for Marketing & Promotions
+## 🎯 Conclusion
+This data-driven analysis supports smarter decision-making in operations, inventory planning, and marketing. By acting on these insights, the business can improve customer satisfaction, boost sales, and enhance overall efficiency.
 
-Feature The Classic Deluxe Pizza and The Barbecue Chicken Pizza in promotions to drive even higher sales.
-Introduce combo offers with drinks or sides to increase average order value.
+---
 
-3-Maximize Revenue from Hawaiian Pizza
+## 📁 Project Structure
 
-Explore premium variations or upsell strategies to further capitalize on its strong performance.
-Highlight its popularity in marketing campaigns to attract more customers.
-
-
-Conclusion
-
-This analysis provides a data-driven approach to optimizing sales and customer experience. By leveraging these insights, we can enhance revenue, improve customer satisfaction, and streamline operations effectively.
