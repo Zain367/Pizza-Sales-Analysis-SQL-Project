@@ -1,3 +1,21 @@
+**Project Title**
+Objective
+Tools/Skills Used
+Key Insights / Summary of Findings
+Screenshots
+Optional: Link to full dashboard if hosted or PDF export
+
+
+
+
+
+
+
+
+
+
+
+
 I have leveraged my SQL skills to analyze pizza sales data and identify key trends to optimize sales strategies and improve operational efficiency.
 Below are the key insights from the analysis:           
 1. Highest Priced Pizza: The Greek Pizza
